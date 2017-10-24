@@ -7,6 +7,6 @@ companies listed on Dow Jones Industrial Average on [CNN](http://money.cnn.com/d
 data into csv format
 
 # flightaware
-flightaware folder contains code to extract info on flights departuring from DFW or other cities on [FlightAware](https://flightaware.com/live/airport/KDFW/departures).
+flightaware folder contains code to extract info on flights departing from DFW or other cities on [FlightAware](https://flightaware.com/live/airport/KDFW/departures).
 The data is exported into csv format.
 
